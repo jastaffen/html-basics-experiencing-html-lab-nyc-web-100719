@@ -1,4 +1,4 @@
-<li>"eggs"</li>
+"eggs"
 "flour"
 "sugar"
 "brown sugar"
